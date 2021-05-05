@@ -1,4 +1,5 @@
 # Methods
+Arrays
 Methods,their meanings, examples, and time complexities
 
 Map()-
